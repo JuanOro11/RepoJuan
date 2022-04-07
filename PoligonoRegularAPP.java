@@ -10,6 +10,7 @@ public class PoligonoRegularAPP {
         System.out.println(cua.perimetro());
 
         Hexagono hex = new Hexagono();
+        Hexagono hex2 = new Hexagono();
     }
 
 }
