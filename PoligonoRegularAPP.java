@@ -8,6 +8,8 @@ public class PoligonoRegularAPP {
         System.out.println(tri1.perimetro());
         System.out.println(tri2.perimetro());
         System.out.println(cua.perimetro());
+
+        Hexagono hex = new Hexagono();
     }
 
 }
